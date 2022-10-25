@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoge&layout=compact&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
 
-```js:console
-console.log('xxx');
+```mermaid
+graph LR
+  A[起床] --> B[朝食]
+  B --> C[作業]
+  C --> D[昼食]
+  D --> E[作業]
+  E --> F[夕飯]
+  F --> G[就寝]
+  G --> A
 ```
