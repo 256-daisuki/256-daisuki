@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=256-daisuki&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoge&layout=compact&theme=dracula
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=256-daisuki&layout=compact&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
+
