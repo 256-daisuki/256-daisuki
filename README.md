@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ```mermaid
 graph LR
-  A[起床] --> B[朝食]
-  B --> C[作業]
-  C --> D[昼食]
-  D --> E[作業]
-  E --> F[夕飯]
-  F --> G[就寝]
+  A[何かを思いつく] --> B[忘れる]
+  B --> C[思い出す]
+  C --> D[作業！]
+  D --> E[作業！]
+  E --> F[寝る]
+  F --> G[飽きる]
   G --> A
 ```
