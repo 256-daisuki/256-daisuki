@@ -5,4 +5,3 @@
   <img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=256-daisuki&repo=256server&theme=dark"/>
   <img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=256-daisuki&repo=Electron&theme=dark"/>
 </p>
-<img height_"250px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=256-daisuki&theme=dracula"/>
