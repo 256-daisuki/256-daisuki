@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Twitter Follow](https://img.shields.io/twitter/follow/256_daisuki?logo=256daisuke&style=social)
+<a>
+ <img scr="https://github-readme-stats.vercel.app/api?username=256-daisuki">
+</a>
