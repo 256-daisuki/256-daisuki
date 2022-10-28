@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=256-daisuki
+<img src="https://github-readme-stats.vercel.app/api?username=256-daisuki" alt="256大好き!'s GitHub Stats" title="256大好き!'s GitHub Stats">
