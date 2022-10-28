@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <a href="https://twitter.com/256_daisuki">
-    <img height="20" src="https://img.shields.io/twitter/follow/256_daisuki?color=x&logo=256daisuke&style=plastic">
-  </a>
-</p>
+https://github-stats-evirunurm.vercel.app/api/stats.js?username=256-daisuki
