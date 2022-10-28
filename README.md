@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
+<p>
   <a href="https://twitter.com/256_daisuki">
-    <img src="https://img.shields.io/twitter/follow/256_daisuki?style=plastic" />
+    <img height="20" src="https://img.shields.io/twitter/follow/256_daisuki?color=x&logo=256daisuke&style=plastic">
   </a>
 </p>
-
-
-![Twitter Follow](https://img.shields.io/twitter/follow/256_daisuki?style=plastic)
-
-
-<a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
-  </a>
