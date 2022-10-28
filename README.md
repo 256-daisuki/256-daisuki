@@ -4,6 +4,4 @@
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=256-daisuki&layout=compact&theme=dark"/>
   <img height_"200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=256-daisuki&theme=dracula"/>
 </p>
-<p>
-  
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
