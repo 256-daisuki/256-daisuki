@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://twitter.com/256_daisuki">
+    <img src="https://img.shields.io/twitter/follow/256_daisuki?style=plastic" />
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=256-daisuki&layout=compact&theme=dracula
-)](https://github.com/anuraghazra/github-readme-stats)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/256_daisuki?style=plastic)
 
 
+<a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  </a>
