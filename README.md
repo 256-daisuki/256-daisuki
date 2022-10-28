@@ -5,6 +5,6 @@
   <img height_"200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=256-daisuki&theme=dracula"/>
 </p>
 <p>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=256-daisuki&repo=256server"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=256-daisuki&repo=Electron"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=256-daisuki&repo=256server" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=256-daisuki&repo=Electron" />
 </p>
