@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-stats-evirunurm.vercel.app/api/stats.js?username=256-daisuki
+ ![Twitter Follow](https://img.shields.io/twitter/follow/256_daisuki?logo=256daisuke&style=social)
